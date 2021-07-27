@@ -106,7 +106,7 @@ footer {
     bottom: 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
     body {
         background: url('images/bg-mobile.svg') no-repeat;
